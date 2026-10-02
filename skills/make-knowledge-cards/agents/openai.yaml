@@ -1,0 +1,6 @@
+interface:
+  display_name: "Knowledge Cards"
+  short_description: "Turn articles into focused knowledge cards"
+  default_prompt: "Use $make-knowledge-cards to turn this article or Markdown/TXT file into source-grounded knowledge cards."
+policy:
+  allow_implicit_invocation: true
